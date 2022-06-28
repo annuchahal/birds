@@ -1,0 +1,28 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+.header{
+  text-align: center;
+  
+  font-family: 'Pacifico', cursive;
+  padding: 80px;
+
+  font-size: 30px;
+  color: lightseagreen;
+}
+
+.heading{
+  text-align: center;
+  padding:35px;
+  
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+body{
+  background-image: url("/home/com172/disk/project-app/src/pexels-diana-light-7296698.jpg");
+}
